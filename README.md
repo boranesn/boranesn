@@ -10,7 +10,7 @@ I am a Computer Science student at PJAIT (Warsaw), dedicated to building scalabl
 - 🤖 **Agentic AI:** Engineering autonomous AI agents designed to handle multi-step reasoning and complex tasks.
 - 📈 **AI Marketing:** Developing **AI-powered marketing systems** that automate lead generation, personalization, and conversion workflows.
 - ⚡ **Automation:** Designing custom **workflow automation systems** to eliminate manual bottlenecks and scale operations.
-- - 💼 **Actively seeking a Software Engineering Internship** to bring my product-building mindset to a professional engineering team.
+- 💼 **Actively seeking a Software Engineering Internship** to bring my product-building mindset to a professional engineering team.
 
 #### 🛠️ Tech Stack & Expertise
 - **Core Languages:** TypeScript, Python, Node.js
