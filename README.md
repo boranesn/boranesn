@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.gif" width="1200" alt="Boran Esen — Full-stack development and agent orchestration. Based in Warsaw, Poland." />
+  <img src="./cover.gif" width="1200" alt="Boran Esen — Full-stack development and agent orchestration." />
 </p>
 
 ## Engineering with intent.
