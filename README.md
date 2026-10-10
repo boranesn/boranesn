@@ -1,28 +1,22 @@
-# Hi, I'm Boran 👋
+<p align="center">
+  <img src="assets/cover.gif" width="1200" alt="Boran Esen — Full-stack development and agent orchestration. Based in Warsaw, Poland." />
+</p>
 
-### CS Student @ PJAIT | Full-Stack & Agentic AI Developer | Automation Architect
+## Engineering with intent.
 
-I am a Computer Science student at PJAIT (Warsaw), dedicated to building scalable SaaS products and autonomous AI systems. I specialize in bridging the gap between complex engineering and business growth through AI-driven automation and marketing systems.
+I'm a **Computer Science student at PJAIT in Warsaw**, building full-stack applications and exploring **agent orchestration**. I'm interested in how models, tools, and software can work together to create reliable, useful systems.
 
-#### 🚀 What I'm Building & Researching
-- 🎓 **Academic:** Pursuing Computer Science at the Polish-Japanese Academy of Information Technology.
-- 💻 **SaaS:** Scaling **[Vunve](https://vunve.com)**, a full-stack platform where I implement real-world software architecture.
-- 🤖 **Agentic AI:** Engineering autonomous AI agents designed to handle multi-step reasoning and complex tasks.
-- 📈 **AI Marketing:** Developing **AI-powered marketing systems** that automate lead generation, personalization, and conversion workflows.
-- ⚡ **Automation:** Designing custom **workflow automation systems** to eliminate manual bottlenecks and scale operations.
-- 💼 **Actively seeking a Software Engineering Internship** to bring my product-building mindset to a professional engineering team.
+My projects focus on API integrations, business automation, and AI-powered applications. I care about clear architecture, maintainable code, and solutions that work beyond the demo.
 
-#### 🛠️ Tech Stack & Expertise
-- **Core Languages:** TypeScript, Python, Node.js
-- **Frontend & Backend:** Next.js, React, Supabase, PostgreSQL, Vercel
-- **SaaS Infrastructure:** Stripe (Payment & Webhooks), Auth/RBAC, REST/GraphQL APIs
-- **AI & Automation:** OpenAI API, LangChain, Autonomous Agents, Custom Mail Automation (Marketing/Transactional)
-- **Workflow:** Git, CI/CD, Agile Methodology
+### Technical toolkit
 
-#### 📫 Let's Connect
-- **LinkedIn:** [Boran Esen](https://www.linkedin.com/in/boran-esen-001222242/)
-- **Portfolio:** [vunve.com](https://vunve.com)
-- **Email:** [ozboranesen@gmail.com](mailto:ozboranesen@gmail.com)
+| Area | Technologies |
+| :--- | :--- |
+| Languages | TypeScript · JavaScript · Python · Java |
+| Applications | React · Next.js · Node.js · REST APIs |
+| Data & infrastructure | PostgreSQL · Supabase · Vercel · Git |
+| AI & automation | OpenAI API · LangChain · Tool integration · Multi-agent workflows |
 
----
-*“Automating the present, architecting the future.”*
+**Open to software engineering internships** in full-stack development, backend engineering, and AI-powered applications.
+
+[LinkedIn](https://www.linkedin.com/in/boran-esen-001222242/) · [Email](mailto:ozboranesen@gmail.com)
